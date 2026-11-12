@@ -170,6 +170,7 @@ The latest automated run passed 55 of 55 checks. Full test cases and results are
 | [docs/screenshots/README.md](docs/screenshots/README.md) | Required screenshot checklist |
 | [database/ERD.md](database/ERD.md) | Entity relationship diagram |
 | [DEPLOYMENT.md](DEPLOYMENT.md) | Hosting guide for the frontend, backend and database |
+| [DEPLOYMENT_NOTES.md](DEPLOYMENT_NOTES.md) | Current deployment status, GitHub access fix and go-live checklist |
 
 ## Fruit Catalogue
 
