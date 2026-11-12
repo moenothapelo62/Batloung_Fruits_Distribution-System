@@ -1,4 +1,14 @@
 # Batloung Fruits - Distribution Management System
+## Group Members
+
+| 
+| 1  Thapelo Moeno  901020404
+| 2  Liteboho Matiase  901020413 
+| 3  Karabo Anna Noka  901020421 
+| 4  Tsokoliso Makompo  901021267 
+| 5 Relebohile Makoa 901020405 
+| 6  Kekeletso Rakheane  901020411 
+| 7  Mamakakamela Tabitha Makhaba  901020407
 
 A full-stack web application for **DIWA2110 - Web Application Development**.
 
@@ -185,3 +195,4 @@ The project is ready to host:
 - **Database:** Railway MySQL
 
 See [DEPLOYMENT.md](DEPLOYMENT.md) for the full step-by-step guide and environment variables.
+
