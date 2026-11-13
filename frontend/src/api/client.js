@@ -2,8 +2,9 @@ import axios from 'axios';
 
 // Centralised axios instance. Token is attached from localStorage.
 // VITE_API_URL is used in production (separate API host); falls back to the dev proxy.
-const api = axios.create({ baseURL: import.meta.env.VITE_API_URL || '/api' });
-
+const api = axios.create({
+  baseURL: 'https://batloung-fruits-distribution-system-k5uc.onrender.com/api'
+});
 api.interceptors.request.use((config) => {
   const token = localStorage.getItem('bf_token');
   if (token) config.headers.Authorization = `Bearer ${token}`;
